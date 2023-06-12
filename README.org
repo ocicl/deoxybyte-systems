@@ -1,0 +1,10 @@
+* deoxybyte-systems
+
+Utilities for Common Lisp ASDF systems.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/keithj/deoxybyte-systems.git   |
+| commit  | a49dc52  |
+| systems | deoxybyte-systems |
+|---------+-------------------------------------------|
+
